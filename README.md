@@ -10,7 +10,7 @@ jQueryでローカルにある大量のhtmlファイルから特定の文字列�
 
 01.export.jsの中身（getContents関数）を取得したい要素に併せて編集する
 
-02.fileexport.htmlをブラウザで読み込む
+02.index.htmlをブラウザで読み込む
 
 03.対象のファイルを読み込む
 
